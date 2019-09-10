@@ -1,0 +1,47 @@
+.menu {
+  width: 50vw;
+  max-width: 70%;
+}
+
+.menu-card {
+  width: 80%;
+  justify-content: space-evenly;
+}
+
+.img-desc-wrapper{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.menu-card img {
+  width: 100px;
+  height: 100px;
+}
+
+.price-desc {
+  display: flex;
+  justify-content: space-around;
+}
+
+input {
+  border: none;
+  justify-content: left;
+}
+
+.title-input {
+  font-size: 2rem;
+  width: 80%;
+}
+
+.description-input {
+  font-size: 1rem;
+  height: 4rem;
+  justify-content: left;
+  word-wrap: break-word;
+
+}
+
+.price-input {
+  font-size: 1rem;
+  width: 3rem;
+}
